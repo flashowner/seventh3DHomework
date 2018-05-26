@@ -22,6 +22,6 @@ Effects->Particle System：<br>
 这样彩虹光环的红色光环就完成了，其余的光环只需要修改粒子颜色和最大最小半径就可以实现了.<br>
 宇宙爆炸的实现效果如下：<br>
 ![](https://github.com/flashowner/seventh3DHomework/blob/master/%E5%9B%BE%E7%89%87/%E6%8D%95%E8%8E%B78.PNG)<br>
-先是聚拢粒子，然后是喷射粒子，最后只剩下稀疏的例子在进行移动，宇宙爆炸效果的实现越光环<br>
+先是聚拢粒子，然后是喷射粒子，最后只剩下稀疏的粒子在进行移动，宇宙爆炸效果的实现越光环<br>
 的实现基本一样，只是将粒子颜色改成白色，以及将游离范围设置成1.<br>
 代码位置：https://github.com/flashowner/seventh3DHomework/tree/master/Scripts
